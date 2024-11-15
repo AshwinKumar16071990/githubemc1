@@ -1,0 +1,1 @@
+ctreats text.txt file
